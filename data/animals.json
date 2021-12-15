@@ -119,11 +119,12 @@
       "id": "11"
     },
     {
-      "name": "Larry",
-      "species": "Lemur",
+      "name": "Gizmo",
+      "species": "bird",
       "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "anxious",
+        "goofy"
       ],
       "id": "12"
     }
